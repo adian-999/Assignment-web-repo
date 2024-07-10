@@ -189,6 +189,7 @@ iframe{
     border-radius: 8px;
     position:relative;
     
+    
 }
 .search-box{
     position:absolute;
@@ -200,11 +201,49 @@ iframe{
 .btn-sub{
     height:57px;
     width:120px;
+    font-weight:bold;
+    border-radius:10px;
+    cursor: pointer;
 }
 .search{
     width:548px;
     height:57px;
     border-radius:10px;
+}
+/* footer part */
+footer{
+    background-color: rgb(83, 89, 124);
+    height:500px;
+    display: flex;
+    flex-direction: column;
+    margin-top:100px;
+}
+.ft-head{
+    margin-top:200px;
+    align-items:center;
+    color:bisque;
+    font-size:34px;
+    font-family:playwrite 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+
+}
+.ft-des{
+    color:blanchedalmond;
+    font-style: italic;
+    width:400px;
+    margin-left:740px;
+}
+.icons{
+    font-size:60px;
+}
+.facebook{
+    color:blue;
+}
+.youtube{
+    color:red;
+}
+.insta{
+    color:rgb(163, 11, 75);
+
 }
 
 
