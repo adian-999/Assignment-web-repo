@@ -97,3 +97,24 @@ header{
     margin-top:100px;
     gap:70px;
 }
+.sec-2{
+    text-align: center;
+    margin-top:250px;
+}
+.sec-2-title{
+    font-size:32px;
+    font-weight:bolder;
+    color:#0D1321;
+}
+.sec-2-des{
+    font-size:16px;
+    width:850px;
+    color:#0D1321;
+    margin-left:500px;
+    margin-bottom:80px;
+
+}
+iframe{
+    height:550px;
+    width:1070px;
+}
